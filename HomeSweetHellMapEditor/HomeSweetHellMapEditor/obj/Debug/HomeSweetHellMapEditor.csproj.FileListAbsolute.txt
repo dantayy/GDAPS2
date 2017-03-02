@@ -8,3 +8,4 @@ Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellM
 Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.csproj.GenerateResource.Cache
 Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.exe
 Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.pdb
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\bin\Debug\HomeSweetHellMapEditor.exe.config

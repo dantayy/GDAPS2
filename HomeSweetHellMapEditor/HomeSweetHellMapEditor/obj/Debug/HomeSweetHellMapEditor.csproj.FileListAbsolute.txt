@@ -9,3 +9,11 @@ Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellM
 Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.exe
 Z:\GDAPS2\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.pdb
 Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\bin\Debug\HomeSweetHellMapEditor.exe.config
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\bin\Debug\HomeSweetHellMapEditor.exe
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\bin\Debug\HomeSweetHellMapEditor.pdb
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.csprojResolveAssemblyReference.cache
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.Form1.resources
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.Properties.Resources.resources
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.csproj.GenerateResource.Cache
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.exe
+Z:\GDAPS2\GitHubWork\HomeSweetHellMapEditor\HomeSweetHellMapEditor\obj\Debug\HomeSweetHellMapEditor.pdb

@@ -106,6 +106,7 @@
             this.towerPlacablePictureSelectionButton.TabIndex = 162;
             this.towerPlacablePictureSelectionButton.Text = "Tower-Placable Picture";
             this.towerPlacablePictureSelectionButton.UseVisualStyleBackColor = true;
+            this.towerPlacablePictureSelectionButton.Click += new System.EventHandler(this.towerPlacablePictureSelectionButton_Click);
             // 
             // enemyPathPictureSelectionButton
             // 
@@ -115,6 +116,7 @@
             this.enemyPathPictureSelectionButton.TabIndex = 163;
             this.enemyPathPictureSelectionButton.Text = "Enemy Path Picture";
             this.enemyPathPictureSelectionButton.UseVisualStyleBackColor = true;
+            this.enemyPathPictureSelectionButton.Click += new System.EventHandler(this.enemyPathPictureSelectionButton_Click);
             // 
             // fileNameTextBox
             // 
